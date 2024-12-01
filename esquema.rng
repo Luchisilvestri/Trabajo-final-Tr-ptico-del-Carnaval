@@ -1,0 +1,44 @@
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+  <start>
+    <element name="TEI">
+      <ref name="teiContent"/>
+    </element>
+  </start>
+
+  <define name="teiContent">
+    <element name="teiHeader">
+      <ref name="headerContent"/>
+    </element>
+    <element name="text">
+      <ref name="textContent"/>
+    </element>
+  </define>
+
+  <define name="headerContent">
+    <element name="fileDesc">
+      <element name="titleStmt">
+        <element name="title">
+          <text/>
+        </element>
+      </element>
+      <element name="publicationStmt">
+        <element name="p">
+          <text/>
+        </element>
+      </element>
+      <element name="sourceDesc">
+        <element name="p">
+          <text/>
+        </element>
+      </element>
+    </element>
+  </define>
+
+  <define name="textContent">
+    <element name="body">
+      <element name="p">
+        <text/>
+      </element>
+    </element>
+  </define>
+</grammar>
