@@ -1,0 +1,291 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+      <Document>
+        <Placemark>
+        <name>Córdoba</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3530240</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Córdoba</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Córdoba</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>-96.92559,18.8842,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Estambul</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>9</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/745044</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>İstanbul</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Estambul</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>28.94966,41.01384,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>veracruzana</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/8859789</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Veracruz</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>veracruzana</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>-91.99944,16.40417,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Berlín</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3587266</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Berlín</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Berlín</value>
+          </Data>
+          <Data name="comments">
+                <value>Lugar de residencia del viejo novelista</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>-88.53333,13.5,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>San Andrés Tuxtla</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3514843</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Vega de Alatorre</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>San Andrés Tuxtla</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>-96.64751,20.02823,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Piedras Negras</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3992619</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Piedras Negras</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Piedras Negras</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>-100.52353,28.70007,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Roma,</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>9</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://dare.ht.lu.se/places/45810</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Infernaccio, Roma</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Roma,</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>12.41433,41.82796,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Cuernavaca</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3529947</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Cuernavaca</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Cuernavaca</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>-99.23075,18.9261,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Cuautla</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/4012400</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Cuautla</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Cuautla</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>-104.4075,20.20139,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Tepoztlán</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3515811</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Tepoztlán</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Tepoztlán</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>-99.10051,18.98622,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>México</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>17</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3523272</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>México</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>México</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>-99.63794497692585,19.364702786652465,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Huatusco</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3526993</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Huatusco de Chicuellar</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Huatusco</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>-96.9676,19.14876,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Morelos</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>1</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3995398</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Morelos</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Morelos</value>
+          </Data>
+          
+        </ExtendedData>
+        <Point>
+              <coordinates>-102.61061,22.86215,0</coordinates>
+            </Point>
+      </Placemark><Placemark>
+        <name>Facultad</name>
+        <ExtendedData>
+          <Data name="Annotations">
+            <value>2</value>
+          </Data>
+          <Data name="Place URIs">
+            <value>http://sws.geonames.org/3530597</value>
+          </Data>
+          <Data name="Names (Gazetteer)">
+            <value>Mexico City</value>
+          </Data>
+          <Data name="Toponyms (Document)">
+            <value>Facultad</value>
+          </Data>
+          <Data name="comments">
+                <value>Se refiere a la UNAM, ubicada en la Ciudad de México, donde se conocieron durante su formación universitaria
+
+Se refiere a la UNAM, ubicada en la Ciudad de México, donde se conocieron durante su formación universitaria</value>
+              </Data>
+        </ExtendedData>
+        <Point>
+              <coordinates>-99.12766,19.42847,0</coordinates>
+            </Point>
+      </Placemark>
+      </Document>
+    </kml>
